@@ -28,3 +28,8 @@ git config --global user.email "tu@email.com"
 git config --glabal user.name "lucasrapun"
 git config --global user.name "lucasrapun"
 git config --global user.email "lucasrapunroyo@gmail.com
+git init
+git branch -M main
+echo "Semana 1 — arranque del proyecto" > README.md
+git add .
+git commit -m "day1: repo inicial + README"

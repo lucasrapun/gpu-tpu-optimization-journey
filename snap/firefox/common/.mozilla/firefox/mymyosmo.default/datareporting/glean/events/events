@@ -23,3 +23,12 @@
 {"timestamp":2736676,"category":"pictureinpicture","name":"saw_toggle_toggle","extra":{"firstTime":"true","glean_timestamp":"1757934482412"}}
 {"timestamp":2743337,"category":"pictureinpicture","name":"saw_toggle_toggle","extra":{"firstTime":"true","glean_timestamp":"1757934482412"}}
 {"timestamp":2744664,"category":"pictureinpicture","name":"saw_toggle_toggle","extra":{"firstTime":"true","glean_timestamp":"1757934482412"}}
+{"timestamp":2765238,"category":"pictureinpicture","name":"saw_toggle_toggle","extra":{"glean_timestamp":"1757934653958","firstTime":"true"}}
+{"timestamp":2767303,"category":"pictureinpicture","name":"saw_toggle_toggle","extra":{"glean_timestamp":"1757934653958","firstTime":"true"}}
+{"timestamp":2970710,"category":"devtools.main","name":"open_tools","extra":{"splitconsole":"false","entrypoint":"KeyShortcut","glean_timestamp":"1757934697577","shortcut":"+F12","session_id":"-1","width":"1900","first_panel":"inspector","host":"bottom"}}
+{"timestamp":2970711,"category":"devtools.main","name":"enter_inspector","extra":{"width":"1900","glean_timestamp":"1757934697577","panel_name":"inspector","session_id":"-1","start_state":"initial_panel","host":"bottom","cold":"true"}}
+{"timestamp":2972901,"category":"devtools.main","name":"tool_timer_layoutview","extra":{"time_open":"2521","session_id":"2896980","glean_timestamp":"1757934699768","os":"Linux 6.14.0-29-generic"}}
+{"timestamp":2972920,"category":"devtools.main","name":"tool_timer_ruleview","extra":{"glean_timestamp":"1757934699787","time_open":"2555","os":"Linux 6.14.0-29-generic","session_id":"2896980"}}
+{"timestamp":2972925,"category":"devtools.main","name":"exit_inspector","extra":{"reason":"toolbox_close","glean_timestamp":"1757934699792","host":"bottom","next_panel":"none","session_id":"2896980","panel_name":"inspector","width":"1900"}}
+{"timestamp":2972925,"category":"devtools.main","name":"close_tools","extra":{"host":"bottom","glean_timestamp":"1757934699792","width":"1900","session_id":"2896980"}}
+{"timestamp":2989029,"category":"pictureinpicture","name":"saw_toggle_toggle","extra":{"firstTime":"true","glean_timestamp":"1757934717497"}}
