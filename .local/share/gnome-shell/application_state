@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-bluetooth-panel.desktop" score="0" last-seen="0"/>
+    <application id="org.gnome.Nautilus.desktop" score="4" last-seen="1757924253"/>
+    <application id="org.gnome.Settings.desktop" score="4" last-seen="1757932070"/>
+    <application id="firefox_firefox.desktop" score="403" last-seen="1757932035"/>
+    <application id="org.gnome.Terminal.desktop" score="135" last-seen="1757924254"/>
+    <application id="gnome-initial-setup.desktop" score="13" last-seen="1757886948"/>
+    <application id="org.gnome.TextEditor.desktop" score="4" last-seen="1757921962"/>
+    <application id="update-manager.desktop" score="1" last-seen="1757886914"/>
+  </context>
+</application-state>

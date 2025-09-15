@@ -1,0 +1,5 @@
+[default-routes]
+alsa_card.pci-0000_05_00.6:output:analog-output-speaker={"channelVolumes":[0.000000, 0.000000], "latencyOffsetNsec":0, "channelMap":["FL", "FR"], "mute":true}
+alsa_card.pci-0000_05_00.6:profile:output:analog-stereo+input:analog-stereo=["analog-output-speaker"]
+bluez_card.6C_0D_E1_88_F2_4E:output:headset-output={"channelVolumes":[0.127976, 0.127976], "latencyOffsetNsec":0, "channelMap":["FL", "FR"], "mute":false}
+bluez_card.6C_0D_E1_88_F2_4E:profile:a2dp-sink=["headset-output"]
