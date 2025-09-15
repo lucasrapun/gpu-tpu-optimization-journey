@@ -1,11 +1,5 @@
 Semana 1 — arranque del proyecto
 
-## Cómo compilar
-
-
-
-## Cómo compilar
-
 
 ## Cómo compilar
 
